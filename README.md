@@ -1,7 +1,7 @@
 # Catalyst Config
 Config file for Fysetc Catalyst.K kit
 
-These configs have been non-exhaustively tested on @Riccorbypro's heavily modified K1 Max, running Calico.
+These configs have been non-exhaustively tested on @Riccorbypro's heavily modified K1 Max, running Kalico.
 
 Changes from stock:
 - TMC5160 X and Y

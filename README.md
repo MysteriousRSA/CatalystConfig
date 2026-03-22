@@ -1,7 +1,14 @@
 # CatalystConfig
 Config file for Fysetc Catalyst.K kit
 
-Sincerely, I do not have the slightest idea what I am doing. pls help
+These configs have been non-exhaustively tested on @Riccorbypro's heavily modified K1 Max.
+
+Changes from stock:
+- TMC5160 X and Y
+- DXC Extruder (custom filament cutter)
+- Chamber heater added
+- BTT Eddy (using EddyNG)
+
 Check the following links for more info:
 
 https://github.com/FYSETC/Catalyst.K_Kit
